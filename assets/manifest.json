@@ -1,6 +1,7 @@
 {
-  "archive_checksum_sha256": "935cca266cb4aeaa0c017b634f01e5edd4899329b31a1827f98a2258a0070cc7",
-  "created_at": "2026-03-11T14:03:34Z",
+  "archive_checksum_sha256": "54832ed37940905a90110acdcbd07f5b336a21227396858f278157473e3712a7",
+  "archive_size_bytes": 1275601403,
+  "created_at": "2026-03-11T15:30:51Z",
   "files": [
     {
       "path": "first.idx",
