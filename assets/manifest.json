@@ -1,0 +1,19 @@
+{
+  "archive_checksum_sha256": "935cca266cb4aeaa0c017b634f01e5edd4899329b31a1827f98a2258a0070cc7",
+  "created_at": "2026-03-11T14:03:34Z",
+  "files": [
+    {
+      "path": "first.idx",
+      "sha256": "662b0e62c4074f2cb9740490e14fed673abc576f5315b9879938cf7017da0729",
+      "size": 758610128
+    },
+    {
+      "path": "last.idx",
+      "sha256": "61b0e24ae351f59054d37f852c81d259cd3a7794b3e5ddb50307e2b4ba97fbcb",
+      "size": 595858864
+    }
+  ],
+  "format_version": 1,
+  "index_version": "2026-03-11-global-v1",
+  "notes": null
+}
