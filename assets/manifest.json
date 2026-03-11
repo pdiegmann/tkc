@@ -1,7 +1,10 @@
 {
-  "archive_checksum_sha256": "54832ed37940905a90110acdcbd07f5b336a21227396858f278157473e3712a7",
-  "archive_size_bytes": 1275601403,
-  "created_at": "2026-03-11T15:30:51Z",
+  "archive": {
+    "sha256": "56eade75445eb23487cd6d811d7233f984b0d6eb2800c5db0b7950f08fae7370",
+    "size": 1275601403,
+    "url": "https://media.githubusercontent.com/media/pdiegmann/tkc/assets/name_index/2026-03-11-global-v1.zip"
+  },
+  "created_at": "2026-03-11T18:06:59Z",
   "files": [
     {
       "path": "first.idx",
