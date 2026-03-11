@@ -1,10 +1,10 @@
 {
   "archive": {
-    "sha256": "f43a72f8c8368ee89ad81b33014bd198ee783c871fbb6006acdb33d05119a632",
+    "sha256": "4fd9aa44b9dc15a4b8dfe1a4c35988710bc70eb039862b39d74ca900f6b1236f",
     "size": 1275601403,
     "url": "https://media.githubusercontent.com/media/pdiegmann/tkc/assets/name_index/2026-03-11-global-v1.zip"
   },
-  "created_at": "2026-03-11T18:51:37Z",
+  "created_at": "2026-03-11T19:53:20Z",
   "files": [
     {
       "path": "first.idx",
